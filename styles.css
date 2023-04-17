@@ -1,0 +1,50 @@
+.intro {
+    text-align: center;
+    color: brown
+}
+.name{
+    text-align: center
+}
+.pee {
+    justify-content: space-around
+}
+.pee2{
+    justify-content: right
+}
+.reduce {
+    width: 270px;
+    height: 407.05px;
+}
+.labeb {
+    display: flex;
+    justify-content: right;
+}
+.tony{
+    font-size:medium;
+    display: flex;
+    justify-content:space-around;
+}
+.tony >a {
+    color: brown;
+}
+.yinka{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.putin{
+    border-radius: 97px;
+}
+body {
+    background-color:antiquewhite;
+}
+.box{
+    margin-top: 2rem;
+}
+h2{
+    text-align: center;
+    color:brown
+}
+.joe{
+    text-align: center;
+}

@@ -1,0 +1,67 @@
+.always {
+    display: flex;
+    justify-content: center;
+}
+.demon {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    align-items: center;
+}
+.run {
+    width: 24px;
+    height: 25px;
+}
+.with {
+    width: 24px;
+    height: 25px;
+}
+.pm {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.okay {
+    display: flex;
+    justify-content: center;
+}
+.act {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items:center; 
+    height: 55px;
+    margin-right: 15rem;
+}
+.single {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    gap: 2rem;
+}
+.rise {
+    margin-left: 8rem;
+}.joker {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 3rem;
+}
+.queen {
+    margin-left: 6rem;
+}
+.dime {
+    display: flex;
+    justify-content: center;
+    margin-right: 17.12rem;
+}
+.boy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-right: 15rem;
+}
+.yeah {
+    margin-left: 0.7rem;
+}
